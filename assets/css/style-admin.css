@@ -1,0 +1,26 @@
+
+.m2px{
+	margin: 2px;
+}
+
+.info-soal h5, h4{
+	font-weight: bold;
+}
+
+.img-esoal{
+	width: 300px;
+}
+
+.dt-buttons{
+	margin-bottom: 15px;
+}
+.dt-buttons::before{
+	content: 'Export : ';
+}
+.buttons-csv, .buttons-excel, .buttons-pdf{
+	background-color: #00c0ef;
+	border: 0;
+	border-radius: 3px;
+	padding: 5px 15px;
+	color: white;
+}
