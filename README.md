@@ -8,5 +8,5 @@ Cara Installasi :
 4. Jalankan Project Dengan Memanggil localhost/UjianMasuk dan untuk akses admin yaitu localhost/UjianMasuk/admin
 
 Admin :
-admin
-admin
+username : admin
+password : admin
